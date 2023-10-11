@@ -1,0 +1,17 @@
+.h1{
+font-family: 'Special Elite';
+}
+
+.h2 {
+font-family: 'Special Elite';
+}
+
+.h3 {
+font-family: 'Special Elite';
+}
+
+.row {
+padding-bottom: 50px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
