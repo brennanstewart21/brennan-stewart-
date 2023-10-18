@@ -1,0 +1,36 @@
+/* Headings */
+h1 {
+    font-family: serif;
+    font-size: 35px;
+  }
+  
+  p {
+    font-family: Helvetica, arial, sans-serif;
+    size: 13px;
+  }
+
+h2 {
+    font-family: Georgia;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+
+h6 {
+    font-family: Helvetica;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+blockquote {
+    font-size: 50px;
+    color: navy;
+  }
