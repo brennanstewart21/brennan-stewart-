@@ -1,0 +1,107 @@
+header {
+    width: 1520px;
+    padding: 10px;
+    background-color:#FDDA0D;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 500px;
+    text-align: center;
+  }
+
+  .sectionheader {
+    font-weight: 400;
+    background-color: #FDDA0D;
+    color: black;
+    font-size: 3em;
+    width: 1520px;
+    }
+    
+    .jobtitle {
+    font: Arial, sans-serif;
+    font-size: 2em;
+    color: #444;
+    font-weight: 600;
+    }
+    
+    .organization {
+    font: Arial, sans-serif;
+    font-size: 1.25em; 
+    color: #444;
+    font-weight: 400;
+    }
+    
+    .date {
+    font: Arial, sans-serif;
+    font-size: 1em; 
+    color: #444;
+    font-weight: 400;
+    font-style: italic;
+    margin: 2;
+    }
+    
+    .menu {
+    font-size: 1em;
+    margin: 0 0 0 0;
+    text-align: center;
+    }
+    
+    .description {
+    font: Arial, sans-serif;
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    
+    #degrees {
+    background-color: darkgrey;
+    color:whitesmoke;
+    font-size: 1.5em;
+    width: 1520px;
+    }
+    
+    #do {
+      margin-top: 5px;
+      font-size: 1.5em;
+    }
+    
+    #title {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    h3 {
+      color: grey;
+    }
+a:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+footer {
+  color: whitesmoke;
+  width: 1489px;
+}
